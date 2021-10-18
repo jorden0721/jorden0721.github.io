@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>MGline的首頁</title>
-    </head>
     <body>
         <h1>Hello!</h1>
         <p>這裡是陳荃憲的首頁</p>
